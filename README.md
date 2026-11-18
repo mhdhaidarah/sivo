@@ -25,6 +25,7 @@ viewers cost the uplink of one. Subscribers keep the apps they already use.
 | | |
 |---|---|
 | 📺 **Live TV** | Each channel pulled once and restreamed (HLS) to every viewer; started when someone watches, stopped a minute after the last one. A backup source per channel; a branded no-signal screen while a source is down. |
+| 📡 **Video inputs** | Restream TV from boxes in your own network: multicast from IP encoders and satellite or cable receivers (each channel of a multi-channel feed picked on its own), encoders and cameras over SRT, RTSP, RTMP, HTTP or UDP, HDHomeRun tuners and Tvheadend servers. Add the box, SIVO scans it, tick the channels to import. |
 | 🎬 **Movies & series** | A library on your own disks: posters, stories, cast, seasons and episodes, several audio tracks and subtitles per title. |
 | ⏪ **Catch-up & TV guide** | Record chosen channels for 1 to 30 days; XMLTV guides matched to channels. |
 | 📱 **Every IPTV app** | Xtream Codes API and M3U for IPTV Smarters, TiviMate, VLC and smart-TV apps — no app of ours needed. |
